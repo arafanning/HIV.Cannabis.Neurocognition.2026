@@ -1,6 +1,6 @@
 # Neurocognition syntax recovery: version reconciliation
 
-**Repository:** `Nonlinear.Associations.2026` (current GitHub name pending user-initiated rename to `HIV.Cannabis.Neurocognition.2026`)
+**Repository:** `HIV.Cannabis.Neurocognition.2026` (previously named `Nonlinear.Associations.2026`; renamed November 2026)
 
 **Review status:** A proposed reconciliation, **not** a verified final analysis. Nothing in this PR was executed using participant-level data. All original files remain untouched on `main`.
 
@@ -39,6 +39,6 @@ Subsequent analysis discussions in **October 2026** reverted to the original **w
 
 ## What this PR does not do
 
-It does not change any existing analysis file, manuscript, results, PDF, dataset, or collaborator's work. It does not rename the repository or its URLs. It does not imply that the current script reconstructs the entire final analysis. It provides an inspectable starting point for recovering and validating the current primary analysis **one repository at a time**.
+It does not change any existing analysis file, manuscript, results, PDF, dataset, or collaborator's work. The repository was subsequently renamed to `HIV.Cannabis.Neurocognition.2026`. The rename does not change the original analysis scripts or their provenance. It does not imply that the current script reconstructs the entire final analysis. It provides an inspectable starting point for recovering and validating the current primary analysis **one repository at a time**.
 
 **Recommended next action:** compare the newly assembled file with the user's local final script and run it only in an authorized environment containing the original data. After confirming model outputs, migrate the validated code into the primary documented analysis workflow. Then address the ADL repository.
